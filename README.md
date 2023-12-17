@@ -23,7 +23,7 @@ solve=np.linalg.matrix_rank(a)
 print(solve)
 ```
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/thenmozhi05/RANK-OF-A-MATRIX/assets/140684207/f3fca727-f095-4882-89e0-a0f8069b35ab)
 
 
 
