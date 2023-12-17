@@ -13,7 +13,7 @@ prepare the lists from each linear equations and assign in np.array().
 ### Step 4: 
 end the program
 ## Program:
-
+```
 #Program to find the rank of a matrix.
 #Developed by: thenmozhi p
 #RegisterNumber:23005024
@@ -21,9 +21,10 @@ import numpy as np
 a=[[1,2,3],[3,6,9]]
 solve=np.linalg.matrix_rank(a)
 print(solve)
-
+```
 ## Output:
-![Screenshot 2023-11-20 093650](https://github.com/mounika2005/RANK-OF-A-MATRIX/assets/145633112/75f37dc5-1654-43a3-ba2e-c1d42d740588)
+![Uploading image.png…]()
+
 
 
 ## Result:
